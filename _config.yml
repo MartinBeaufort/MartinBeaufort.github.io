@@ -3,8 +3,8 @@
 #
 title: 周记
 #
-author:
-  name: 周不知
+# author:
+#   name: 周不知
 #   email: your-email@domain.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
@@ -65,7 +65,7 @@ minima:
 #     - about.md
 #
 #   Set to `true` to show excerpts on the homepage.
-#   show_excerpts: false
+  show_excerpts: false
 #
 #   Minima date format.
 #     The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
