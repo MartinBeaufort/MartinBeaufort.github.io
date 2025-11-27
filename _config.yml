@@ -1,7 +1,7 @@
 # Site-wide settings
 # ------------------
 #
-title: Your awesome title
+title: 周记
 #
 # author:
 #   name: GitHub User
@@ -13,9 +13,6 @@ title: Your awesome title
 #   Write an awesome description for your new site here. You can edit this line
 #   in _config.yml. It will appear in your document head meta (for Google search
 #   results) and in your feed.xml site description.
-
-url: "https://MartinBeaufort.github.io"
-baseurl: ""
 
 # Build settings
 # --------------
@@ -31,9 +28,9 @@ theme: minima
 # remote_theme: jekyll/minima@d4d779a
 #
 # Minima requires the following plugins:
-# plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
 #
 # Uncomment the following setting if you wish to disable deprecation warnings
 #   from newer versions of sass converter. Adapt as required.
