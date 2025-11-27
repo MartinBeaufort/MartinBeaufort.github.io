@@ -53,8 +53,8 @@ minima:
     * solarized-light    Light variant of solarized color scheme.
     * solarized-dark     Dark variant of solarized color scheme.
     * solarized          Adaptive skin for solarized color scheme skins.
-  skin: solarized-light
-#   skin: auto
+#   skin: solarized-light
+  skin: auto
 #
 #   Specific pages for site navigation.
 #     If you wish to link only specific pages in the site-navigation, use this
