@@ -1,5 +1,5 @@
 ---
-title:"风车的声音-Windmills of Your Mind"
+title: "风车的声音-Windmills of Your Mind"
 ---
 
 我被美剧Severance第二季的结尾深深感动。打动我的，除了感人画面，还有Mel Torme版本的Windmills of Your Mind。
@@ -84,3 +84,4 @@ As the images unwind
 
 
 Like the circles that you find in the windmills of your mind
+
