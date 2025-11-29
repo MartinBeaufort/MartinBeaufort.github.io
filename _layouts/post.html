@@ -32,6 +32,10 @@ layout: base
     </div>
   </header>
 
+  <div>
+    {{page.tags | join: ' | '}}
+  </div>
+
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
