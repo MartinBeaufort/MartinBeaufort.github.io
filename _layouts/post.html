@@ -29,15 +29,14 @@ layout: base
         {% endfor %}
       </div>
       {%- endif %}
+      <div>
+      {{page.tags | join: ' | '}}
+      </div>
     </div>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
-  </div>
-
-  <div>
-    {{page.tags | join: ' | '}}
   </div>
 
   <div
