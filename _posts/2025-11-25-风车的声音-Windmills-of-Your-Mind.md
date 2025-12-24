@@ -17,7 +17,7 @@ Dusty Springfield的女声版本则是完全不同的感受，节奏比原版更
 
 Sting的版本是翻拍电影的插曲，他的演唱带着一种疏离的感觉，象在讲一段故事。他用独特磁性的嗓音流畅地把旋律倾泻出来，他不是亲历者，而是一个讲述者，他的技巧是几个版本里最好的。可以在Youtube听[Sting版](https://www.youtube.com/watch?v=b7IrhYGbMww)
 
-Mel torme的版本我最喜欢，是他的专辑A time for us中的一首，他的版本象是一段缠绵的独白，如果说前三个版本都是唱给别人听的，那么这个版本更象是唱给自己听的，带着一种强烈的沉醉其中，奋不顾身的愿望，仿佛整个世界都已不存在。可以在Youtube听[Mel torme版](https://www.youtube.com/watch?v=Wc-V5-EVKc4)
+Mel torme的版本我最喜欢，是他的专辑*A time for us*中的一首，他的版本象是一段缠绵的独白，如果说前三个版本都是唱给别人听的，那么这个版本更象是唱给自己听的，带着一种强烈的沉醉其中，奋不顾身的愿望，仿佛整个世界都已不存在。可以在Youtube听[Mel torme版](https://www.youtube.com/watch?v=Wc-V5-EVKc4)
 
 你最喜欢哪一版呢？
 
