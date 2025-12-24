@@ -5,9 +5,9 @@ excerpt_separator: "<!-- no-excerpt -->"
 tags: [影视,音乐]
 ---
 
-我被美剧*Severance*第二季的结尾深深感动。打动我的，除了感人画面，还有Mel Torme版本的Windmills of Your Mind。
+我被美剧*Severance*第二季的结尾深深感动。打动我的，除了感人画面，还有Mel Torme版本的*Windmills of Your Mind*。
 
-Windmills of your mind来自1968年电影*The Thomas Crown Affair*，并获得了第41届奥斯卡最佳原创歌曲奖。当我第一次得知这个信息时不禁感慨，经典的确经得起时间的考验。这部电影在1999年翻拍，由我心目中最帅的007，Pierce Brosnan主演。两个版本的电影我都没有看过，不过并不影响我欣赏和喜欢这首歌。
+*Windmills of your mind*来自1968年电影*The Thomas Crown Affair*，并获得了第41届奥斯卡最佳原创歌曲奖。当我第一次得知这个信息时不禁感慨，经典的确经得起时间的考验。这部电影在1999年翻拍，由我心目中最帅的007，Pierce Brosnan主演。两个版本的电影我都没有看过，不过并不影响我欣赏和喜欢这首歌。
 
 我一共听了4个版本。
 
