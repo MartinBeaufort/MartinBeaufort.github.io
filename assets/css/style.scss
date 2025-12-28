@@ -6,6 +6,11 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-.post-content {
+// 博客文章页面、主页面、摘要统一处理为两端对齐
+.page-content p,
+.post-content p,
+.home p,
+.post-excerpt {
   text-align: justify;
+  text-justify: inter-ideograph;
 }
