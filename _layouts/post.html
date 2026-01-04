@@ -41,10 +41,16 @@ layout: base
 
   <div style="display: flex; justify-content: center; margin: 30px 0; width: 100%;">
     <div
-        data-lyket-type="rating"
+        data-lyket-type="rate"
         data-lyket-id="{{ page.url | slugify }}"
         data-lyket-namespace="blog"
         data-lyket-show-rating="average"
+    ></div>
+    <div
+        data-lyket-type="rate"
+        data-lyket-id="{{ page.url | slugify }}"
+        data-lyket-namespace="blog"
+        data-lyket-show-rating="user"
     ></div>
   </div>
 
