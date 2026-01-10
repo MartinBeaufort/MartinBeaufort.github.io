@@ -40,8 +40,7 @@ sass:
   silence_deprecations: [import]
 
 # Permalink 设置
-# permalink: /:title.html
-permalink: pretty
+permalink: /:title.html
 
 # Minima-specific settings (applicable to Minima v3 and above only)
 # -----------------------------------------------------------------
